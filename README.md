@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning how to manage the service now plataform<br>🎲 Fun fact: I can deadlift 200kg</p>
+<p align="left">📚 I'm currently learning how to develop in the service now enviroment<br>🎲 Fun fact: I can deadlift 200kg</p>
 
 ###
 
