@@ -4,13 +4,6 @@
 
 <p align="left">I'm Isaac, a tech enthusiast. I'm based in São Paulo, Brazil. </p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning how to develop in the service now enviroment<br>🎲 Fun fact: I can deadlift 200kg</p>
 
 ###
 
